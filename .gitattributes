@@ -1,5 +1,7 @@
 # To force CRLF line endings 
 * text eol=crlf
+*.ipynb text eol=crlf
+
 
 # Set default behavior for all files
 * text=auto
