@@ -10,3 +10,5 @@
 *.shx -text
 *.shp -text
 
+# Explicitly declare line endings for specific file types
+*.ipynb text eol=crlf
